@@ -1243,7 +1243,7 @@ img.phone-portrait {
   position: relative;
   z-index: 1;
   overflow: hidden;
-  min-height: 397px;
+  height: 400px;
 }
 .feature-box .background-image-holder {
   z-index: 0;
